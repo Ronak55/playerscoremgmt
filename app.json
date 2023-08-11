@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "PlayerScoreManagementApp",
+    "slug": "PlayerScoreManagementApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/waitamin.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/waitamin.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.irohnyyy.PlayerScoreManagementApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aca4a570-4740-44bb-90cf-2df72d72f822"
+      }
+    },
+    "owner": "irohnyyy"
+  }
+}
